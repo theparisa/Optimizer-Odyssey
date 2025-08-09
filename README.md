@@ -14,7 +14,7 @@ This experiment visualizes the difference between a standard optimizer and a "ge
 
 <img src="https://github.com/user-attachments/assets/48fb78ed-0a26-4988-86ce-cddeb76fc04c" alt="NGD vs SGD" width="70%">
 
-### Phase 2: Probing Lazy vs. Rich Regimes with the NTK
+### Phase 2: Comparing Lazy vs. Rich Regimes with the NTK
 
 This experiment tracks the eigenvalues of the empirical Neural Tangent Kernel (eNTK) of a finite-width network during training. The deviation of the eNTK's eigenvalues (solid lines) from the static, theoretical NTK (dashed lines) serves as a visual proxy for **feature learning**, demonstrating that the network is operating in the powerful "rich" regime.
 
