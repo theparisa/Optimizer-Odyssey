@@ -10,7 +10,7 @@ The project is divided into three phases, each producing a key visualization.
 
 ### Phase 1: Standard vs. Natural Gradient Descent
 
-This experiment visualizes the difference between a standard optimizer and a "geometry-aware" one (Natural Gradient Descent) on a curved loss landscape. The result clearly shows how NGD finds a more efficient path by understanding the parameter space's true geometry, avoiding the inefficient oscillations of standard GD.
+This experiment visualizes the difference between a standard optimizer and a "geometry-aware" one (Natural Gradient Descent) on a curved loss landscape. The result clearly shows how NGD finds a highly efficient path by understanding the parameter space's true geometry. In contrast, standard GD is far slower; while it heads in the correct general direction, it gets trapped in inefficient oscillations that prevent it from reaching the minimum in the same number of iterations.
 
 <img src="https://github.com/user-attachments/assets/48fb78ed-0a26-4988-86ce-cddeb76fc04c" alt="NGD vs SGD" width="70%">
 
