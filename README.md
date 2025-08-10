@@ -8,7 +8,8 @@ The goal is to provide tangible, intuitive evidence for the theories that explai
 
 A detailed report is the centerpiece of this project, containing the full theoretical analysis, implementation details, and discussion of the results.
 
-[REPORT.pdf](https://github.com/user-attachments/files/21703203/Tau_Class___Lab_Report_Template.pdf)
+[REPORT.pdf](https://github.com/user-attachments/files/21703223/REPORT.pdf)
+
 
 ## Project Visualizations
 
