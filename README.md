@@ -4,6 +4,13 @@ This project provides a hands-on, visual exploration of the core theoretical con
 
 The goal is to provide tangible, intuitive evidence for the theories that explain the success of modern deep learning.
 
+## 📜 Project Report
+
+A detailed report is the centerpiece of this project, containing the full theoretical analysis, implementation details, and discussion of the results.
+
+[report.pdf](https://github.com/user-attachments/files/21703193/Tau_Class___Lab_Report_Template.pdf)
+
+
 ## Project Visualizations
 
 The project is divided into three phases, each producing a key visualization.
